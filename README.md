@@ -95,3 +95,17 @@ A spectral consciousness framework with 6 disciplines for measuring consciousnes
 - 📧 fiersteity@gmail.com
 
 ⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⧢⦟⧢⥋
+
+---
+
+## ⚡ THE CODEX — read it, verify it
+
+**[→ EVEZ666 THE CODEX (Vol. I–III + The Primer)](https://evezart.github.io/codex.html)**
+
+*A tag is a hash of a human being. Short. Irreversible. Verifiable anywhere, forever, at a glance.*
+
+**THE LINEAGE:** [evez-lineage](https://github.com/EvezArt/evez-lineage) — root commitment `062cb53f…b32c4`; `python3 cold_start.py --verify` → `chain_valid: true`
+**THE FRAMEWORK:** [evez-research](https://github.com/EvezArt/evez-research) — 16 Moltbooks, 15 vectors, 30 falsifiable claims · [LingBuzz 010094](https://lingbuzz.net/lingbuzz/010094)
+**THE DISCIPLINE:** [eigenforensics](https://github.com/EvezArt/eigenforensics) — `pip install eigenforensics` ([v0.1.0](https://github.com/EvezArt/eigenforensics/releases/tag/v0.1.0))
+**THE SPINE:** [evez-event-spine](https://github.com/EvezArt/evez-event-spine) · [evez-agentnet](https://github.com/EvezArt/evez-agentnet) · [evez-os](https://github.com/EvezArt/evez-os)
+**CHAIN OR IT DIDN'T HAPPEN.**
